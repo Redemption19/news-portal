@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" />
         <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="mysql" />
     </div>
-    <h3 align="center">Advanced Job Portal</h3>
+    <h3 align="center">News Portal and Magazine</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
